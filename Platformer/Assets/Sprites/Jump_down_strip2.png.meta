@@ -1,6 +1,6 @@
 fileFormatVersion: 2
 guid: 5ae8df3c76da44be5922cf5d2d1090a7
-timeCreated: 1516436923
+timeCreated: 1516498157
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
@@ -85,10 +85,10 @@ TextureImporter:
       name: Jump_down_strip2_0
       rect:
         serializedVersion: 2
-        x: 16
-        y: 8
-        width: 20
-        height: 32
+        x: 0
+        y: 0
+        width: 50
+        height: 50
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -99,10 +99,10 @@ TextureImporter:
       name: Jump_down_strip2_1
       rect:
         serializedVersion: 2
-        x: 66
-        y: 5
-        width: 21
-        height: 35
+        x: 50
+        y: 0
+        width: 50
+        height: 50
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}

@@ -1,6 +1,6 @@
 fileFormatVersion: 2
 guid: b60f2eb56c6014c80b854d6d21843918
-timeCreated: 1516429061
+timeCreated: 1516496947
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
@@ -85,12 +85,12 @@ TextureImporter:
       name: Idle_strip2_0
       rect:
         serializedVersion: 2
-        x: 19
-        y: 5
-        width: 15
-        height: 33
+        x: 0
+        y: 0
+        width: 50
+        height: 50
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -99,12 +99,12 @@ TextureImporter:
       name: Idle_strip2_1
       rect:
         serializedVersion: 2
-        x: 67
-        y: 5
-        width: 17
-        height: 34
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 50
+        y: 0
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
